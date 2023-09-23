@@ -1,4 +1,4 @@
-function multiplicar(num1, num2) {
+function multiplicacion(num1, num2) {
     return num1 * num2
 }
-module.exports = multiplicar;
+module.exports = multiplicacion;

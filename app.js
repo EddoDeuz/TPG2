@@ -1,6 +1,7 @@
 const {lectura,escritura}=require('./modulos/readWrite');
 const resta=require('./modulos/resta');
 const division= require('./modulos/division')
+const multiplicacion= require('./modulos/multiplicacion')
 
 const historial=lectura(); // leo el contenido del jason y lo parseo
 
