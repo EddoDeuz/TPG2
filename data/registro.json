@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "operacion": "division",
+        "resultado": 30
+    },
+    {
+        "operacion": "division",
+        "resultado": "No se puede dividir por cero"
+    }
+]
