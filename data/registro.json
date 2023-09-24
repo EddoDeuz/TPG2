@@ -1,1 +1,34 @@
-[{"operacion":"division","resultado":30},{"operacion":"division","resultado":"No se puede dividir por cero"},{"operacion":"resta","resultado":40,"operando1":80,"operando2":40},{"operacion":"resta","resultado":40,"operando1":80,"operando2":40},{"operacion":"resta","resultado":40,"operando1":80,"operando2":40}]
+[
+    {
+        "operacion": "division",
+        "resultado": 30
+    },
+    {
+        "operacion": "division",
+        "resultado": "No se puede dividir por cero"
+    },
+    {
+        "operacion": "resta",
+        "resultado": 40,
+        "operando1": 80,
+        "operando2": 40
+    },
+    {
+        "operacion": "resta",
+        "resultado": 40,
+        "operando1": 80,
+        "operando2": 40
+    },
+    {
+        "operacion": "resta",
+        "resultado": 40,
+        "operando1": 80,
+        "operando2": 40
+    },
+    {
+        "operacion": "resta",
+        "resultado": 87,
+        "operando1": 90,
+        "operando2": 3
+    }
+]
