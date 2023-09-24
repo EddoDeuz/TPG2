@@ -1,5 +1,9 @@
-# Grupo 9
-## Joaquin Gomez
-## David Flores
-## Nazareno Figoli
-## Edgardo De la Cruz
+# Calculadora
+<br>
+
+## Grupo 9
+### Integrantes:
+* Joaquin Gomez
+* Flores David
+* Nazareno Figoli
+* Edgardo De la Cruz
