@@ -1,6 +1,6 @@
 const {lectura,escritura}=require('./modulos/readWrite');
-const suma=require('./modulos/suma');
-const resta=require('./modulos/resta');
+const suma = require('./modulos/suma');
+const resta= require('./modulos/resta');
 const multiplicacion=require('./modulos/multiplicacion');
 const division=require('./modulos/division');
 const eleccion = require('./modulos/eleccion');

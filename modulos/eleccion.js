@@ -1,4 +1,4 @@
-const suma=require('./suma');
+const suma =require('./suma');
 const resta=require('./resta');
 const multiplicacion=require('./multiplicacion');
 const division=require('./division');
